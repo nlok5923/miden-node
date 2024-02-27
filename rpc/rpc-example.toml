@@ -1,4 +1,4 @@
 [rpc]
-endpoint = { host = "localhost", port = 57291 }
+endpoint = { host = "localhost", port = 80 }
 block_producer_url = "http://localhost:48046"
 store_url = "http://localhost:28943"
